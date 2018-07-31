@@ -9,7 +9,7 @@ Bare minimal code to run image captioning demo.
 - [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/)
 
 ## Demo
-Download pre-trained [model](https://github.com/foamliu/Image-Captioning/releases/download/v1.0/model.04-1.3820.hdf5) into "models" folder then run:
+Download pre-trained [model](https://github.com/foamliu/Simple-Captioning/releases/download/v1.0/model.04-1.3820-min.hdf5) into "models" folder then run:
 
 ```bash
 $ python demo.py
